@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Mayank Sharma
 
-<!--
-**workwithmayank/workwithmayank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+M.Sc. Bioinformatics Graduate
 
-Here are some ideas to get you started:
+## Research Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Genomics
+- NGS Analysis
+- Computational Biology
+- Systems Biology
+- Bioinformatics
+
+## Current Focus
+
+- Publishing MSc Dissertation
+- Bioinformatics Research Projects
+- Learning AI Applications in Healthcare
+
+## Tools
+
+- Linux
+- Python
+- R
+- SAMtools
+- Snippy
+- BLAST
+- Cytoscape
+
+## Connect With Me
+
+- ResearchGate (coming soon)
+- LinkedIn (coming soon)
