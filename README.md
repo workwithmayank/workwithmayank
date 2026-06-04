@@ -18,12 +18,13 @@ M.Sc. Bioinformatics Graduate
 
 ## Tools
 
-- Linux                - Snippy
-- Python               - BLAST
-- R                    - Cytoscape
+- Linux                
+- Python               
+- R                   
 - SAMtools
-
-
-
-
+- Snippy
+- BLAST
+- Cytoscape
+- Git
+- GitHub
 
