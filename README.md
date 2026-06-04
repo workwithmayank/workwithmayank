@@ -26,7 +26,4 @@ M.Sc. Bioinformatics Graduate
 - BLAST
 - Cytoscape
 
-## Connect With Me
 
-- ResearchGate (coming soon)
-- LinkedIn (coming soon)
